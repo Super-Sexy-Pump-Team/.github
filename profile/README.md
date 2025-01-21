@@ -1,4 +1,5 @@
 # Cal Poly SPT Pump Team
+Welcome to the organization page for the Pump Team of SLO Propulsion Technologies! This is where we will be keeping all the project repositories.
 
 ## About Our Project
 *Coming Soon*
