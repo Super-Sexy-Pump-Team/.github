@@ -1,8 +1,8 @@
-# Cal Poly SPT Pump Team
+# SLO Propulsion Technologies: Super Sexy Pump Team
 Welcome to the organization page for the Pump Team of SLO Propulsion Technologies! This is where we will be keeping all the project repositories.
 
 ## About Our Project
-*Coming Soon*
+The objective of this project is to static fire the first college-built, electric pump powered, lqiuid bipropellant rocket engine. This organization is a collection of the code developed to support the test stand.
 
 ## Guidelines
 These are some general guidelines for best coding practices. Please try to follow them to the best of your ability so when we bring everything together into a final project it will be a smooth experience.
